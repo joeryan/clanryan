@@ -1,3 +1,6 @@
+p h1 h2 {
+  padding: 10px;
+}
 .menu {
   background-color: blue;
   height: 50px;
